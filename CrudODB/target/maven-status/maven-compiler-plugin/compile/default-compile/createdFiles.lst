@@ -1,0 +1,4 @@
+models\Pedidos.class
+models\Carta.class
+com\mycompany\crudodb\Principal.class
+com\mycompany\crudodb\CrudODB.class
